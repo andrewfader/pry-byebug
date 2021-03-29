@@ -22,7 +22,7 @@ GEM
     docile (1.1.5)
     faraday (0.13.1)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.18)
+    ffi (1.12.2)
     iniparse (1.4.4)
     json (2.5.1)
     kramdown (1.13.1)
